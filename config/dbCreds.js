@@ -1,7 +1,7 @@
 module.exports = {
-    DB_NAME: 'login_auth',
-    DB_USER: 'postgres',
-    DB_PASSWORD: 'postgres',
+    DB_NAME: 'Your database name',
+    DB_USER: 'Your database user',
+    DB_PASSWORD: 'Your database password',
     DB_HOST: 'localhost',
     DB_PORT: 5432
 }
